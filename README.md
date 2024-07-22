@@ -1,4 +1,5 @@
 ### Project_courses_website
+`Стек: python, pandas, pandahouse, numpy, seaborn, matplotlib, scipy, bootstrap, requests, urlencode`
 
 В ходе тестирования одной гипотезы целевой группе была предложена новая механика оплаты услуг на сайте продажи курсов, у контрольной группы оставалась базовая механика. 
 
